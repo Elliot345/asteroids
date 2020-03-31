@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<header>
+<title>Asteroids</title>
+</header>
+<body>
+<center>
+<h1>Asteroids</h1>
+<br>
+<a href="https://track.fiverr.com/visit/?bta=69023&nci=5717" Target="_Top"><img border="0" src="https://fiverr.ck-cdn.com/tn/serve/?cid=2464400"  width="120" height="600" align='left'></a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSevqLrflBjVqSDEXuDxKLWoh579MvX8SleXNc7qtq2g7SP53w/viewform?usp=sf_link" Target="_Top"><img border="1" src="yourad.png"  width="120" height="600" align='right'></a>
+<div onmousedown="reset()">
+<canvas tabindex="1" id="canvas" width="500" height="400"></canvas>
+</div>
+<br>
+<font size="1">Made by D. Elliot Lawrence</font>
+</center>
+<script src="script.js"></script>
+<br>
+<div id='donate'>
+<center>
+<br>
+<font size='3'>Help buy a static web <br>address for Java Script Games:</font>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="CNXA4DWXTZXXL" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+
+</form>
+</center>
+</div>
+</body>
+</html>
